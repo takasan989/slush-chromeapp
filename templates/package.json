@@ -1,0 +1,10 @@
+{
+  "name": "<%= appName %>",
+  "version": "<%= appVersion %>",
+  "dependencies": {},
+  "devDependencies": {
+      "gulp": "*",
+      "gulp-load-plugins": "*",
+      "gulp-zip": "*"
+  }
+}

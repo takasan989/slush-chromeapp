@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+    "name": "<%= appName %>",
+    "description": "<%= appDescription %>",
+    "version": "<%= appVersion %>",
+
+    "app": {
+	"background": {
+	    "scripts": ["background.js"]
+	}
+    },
+
+    "permissions": [
+    ]
+}
